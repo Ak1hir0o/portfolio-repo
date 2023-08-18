@@ -45,11 +45,6 @@ p {
   color: #020202 !important;
 }
 
-
-
-/********** Template CSS ************/
-
-
 .text-stroke-header {
   -webkit-text-stroke: 3px #ffffff;
   color: transparent;
@@ -73,12 +68,7 @@ p {
   border-radius: 25px;
 }
 
-
-
-
-/* ================ Navigation Menu ====================*/
-
-
+/**Navigtion**/
 .navbar-light {
   display: none;
 }
@@ -101,9 +91,7 @@ p {
   }
 }
 
-
-/*===================== Hero section ======================*/
-
+/**Hero Section**/
 .about-img {
   margin-left: -100px;
   right: -60px;
@@ -152,8 +140,7 @@ p {
   }
 }
 
-/*===================== Progress Bar ====================*/
-
+/**Progressbar styles**/
 .progress {
   border-radius: 10px;
 }
@@ -164,7 +151,7 @@ p {
   transition: 2s;
 }
 
-/* =================== Service Section ==================*/
+/**Service Section**/
 .service-h4 {
   padding-bottom: 30px;
 }
@@ -191,9 +178,7 @@ p {
 
 }
 
-/* =================== Portfolio section ==================*/
-
-
+/**Portfolio Section**/
 .portfolio-item .portfolio-btn {
   position: absolute;
   width: 0;
@@ -213,8 +198,7 @@ p {
   left: 30px;
 }
 
-/* ========================== Contact Us ========================*/
-
+/**Contact section**/
 .contact-form .help-block ul {
   margin: 0;
   padding: 0;
@@ -222,8 +206,7 @@ p {
 }
 
 
-/*====================== Back to buttom ==================*/
-
+/**Back to top btn**/
 .scroll-to-bottom {
   position: fixed;
   width: 20px;
